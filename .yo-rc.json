@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "baseName": "general_authserver",
+    "packageName": "com.ngcloudapps.myapp",
+    "packageFolder": "com/ngcloudapps/myapp",
+    "authenticationType": "oauth2",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "rememberMeKey": "388d31d03ae383038603c2067030887b655128bd"
+  }
+}
